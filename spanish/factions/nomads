@@ -1,0 +1,28 @@
+[
+  {
+    "tabla": "FACCION",
+    "nameId": "nomadas",
+    "nombre": "Facción Nómada"
+  },
+  {
+    "tabla": "EJERCITO",
+    "nameId": "nomadasGen",
+    "nombre": "Nómadas",
+    "faccion": "nomadas",
+    "descripcion": "Ejército Nómada genérico"
+  },
+  {
+    "tabla": "EJERCITO",
+    "nameId": "corregidor",
+    "nombre": "Mando Jurisdiccional de Corregidor",
+    "faccion": "nomadas",
+    "descripcion": "Ejército Nómada con sectorial de Corregidor."
+  },
+  {
+    "tabla": "EJERCITO",
+    "nameId": "bakunin",
+    "nombre": "Mando Jurisdiccional de Bakunin",
+    "faccion": "nomadas",
+    "descripcion": "Ejército Nómada con sectorial de Bakunin"
+  }
+  ]
